@@ -1,0 +1,137 @@
+{
+    "shortcuts": [
+        {
+            "combination": "MAILU",
+            "action":{
+                "type": "website",
+                "link": "https://mail.google.com/mail/u/0/"
+            }
+        },
+        {
+            "combination": "MAILM",
+            "action":{
+                "type": "website",
+                "link": "https://mail.google.com/mail/u/1/"
+            }
+        },
+        {
+            "combination": "TGTG",
+            "action":{
+                "type": "path",
+                "path": "C:\\Users\\мико\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe"
+            }
+        },
+        {
+            "combination": "SPOTI",
+            "action":{
+                "type": "app",
+                "name": "spotify"
+            }
+        },
+        {
+            "combination": "CMD",
+            "action":{
+                "type": "path",
+                "path": "C:\\WINDOWS\\system32\\cmd.exe"
+            }
+        },
+        {
+            "combination": "TRANS",
+            "action":{
+                "type": "website",
+                "link": "https://translate.yandex.com/kk/"
+            }
+        },
+        {
+            "combination": "VK",
+            "action":{
+                "type": "website",
+                "link": "https://vk.com"
+            }
+        },
+        {
+            "combination": "YOUTU",
+            "action":{
+                "type": "website",
+                "link": "https://www.youtube.com"
+            }
+        },
+        {
+            "combination": "MANGA",
+            "action":{
+                "type": "website",
+                "link": "https://mangalib.org/"
+            }
+        },
+        {
+            "combination": "OLDMY",
+            "action":{
+                "type": "website",
+                "link": "https://oldmy.sdu.edu.kz/"
+            }
+        },
+        {
+            "combination": "MOODL",
+            "action":{
+                "type": "website",
+                "link": "https://moodle.sdu.edu.kz/my/"
+            }
+        },
+        {
+            "combination": "HOST",
+            "action":{
+                "type": "website",
+                "link": "https://www.ps.kz/hosting/my/view?id=389166"
+            }
+        },
+        {
+            "combination": "NARUT",
+            "action":{
+                "type": "website",
+                "link": "https://narutoplanet.ru/"
+            }
+        },
+        {
+            "combination": "ONGOI",
+            "action":{
+                "type": "website",
+                "link": "https://v2.vost.pw/"
+            }
+        },
+        {
+            "combination":"VSCOD",
+            "action":{
+                "type": "path",
+                "path": "C:\\Users\\мико\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+            }
+        },
+        {
+            "combination":"PHPS",
+            "action":{
+                "type":"path",
+                "path":"C:\\Program Files\\JetBrains\\PhpStorm 2022.3.2\\bin\\phpstorm64.exe"
+            }
+        },
+        {
+            "combination":"EDGE",
+            "action":{
+                "type":"path",
+                "path":"c:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+            }
+        },
+        {
+            "combination":"COMP",
+            "action":{
+                "type":"path",
+                "path":"c:\\"
+            }
+        },
+        {
+            "combination":"PASSW",
+            "action":{
+                "type":"website",
+                "link":"edge://wallet/"
+            }
+        }
+    ]
+}
